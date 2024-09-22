@@ -1,6 +1,6 @@
 # Jarkom-Modul-1-2024-IT37
 
-## Write Up Praktikum Jarkom Modul 1
+_Write Up Praktikum Jarkom Modul 1_
 
 
 Muhammad Rizq Taufan - 5027231021
